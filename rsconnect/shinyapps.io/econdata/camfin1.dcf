@@ -1,0 +1,10 @@
+name: camfin1
+account: econdata
+server: shinyapps.io
+appId: 87591
+bundleId: 513518
+url: https://econdata.shinyapps.io/camfin1/
+when: 1469266838.8228
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: inemcm16.csv
